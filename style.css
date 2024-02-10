@@ -21,7 +21,7 @@ body{
 
 canvas{
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0,   0.19);
-  margin-top: 40px;
+  margin-top: 75px;
   text-align: center;
 }
 @media (max-width: 1000px) {
